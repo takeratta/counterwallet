@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "cryptojs": "2.5.3",
-    "mocha": "1.18.2",
+    "mocha": "6.0.0",
     "transifex": "1.4.2"
   },
   "devDependencies": {
